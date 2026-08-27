@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f985dcf`](https://github.com/stdlib-js/stdlib/commit/f985dcfb842318ddb6343c5737fe909edb2c2e9f) - **docs:** use correct specifier _(by Athan Reines)_
 -   [`10787df`](https://github.com/stdlib-js/stdlib/commit/10787dfc5f33b7757d3f4c2aaefcb2ebd1bef487) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`eb6b078`](https://github.com/stdlib-js/stdlib/commit/eb6b078625dc055292ef575264465aae2edf2654) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`1368157`](https://github.com/stdlib-js/stdlib/commit/1368157631241acfb9269903703107acb1ae80f8) - **feat:** add C implementation for `stats/base/ndarray/dstdev` [(#14636)](https://github.com/stdlib-js/stdlib/pull/14636) _(by Ujjwal Verma, Athan Reines)_
