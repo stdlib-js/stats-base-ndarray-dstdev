@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-26)
+## Unreleased (2026-08-27)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`10787df`](https://github.com/stdlib-js/stdlib/commit/10787dfc5f33b7757d3f4c2aaefcb2ebd1bef487) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`eb6b078`](https://github.com/stdlib-js/stdlib/commit/eb6b078625dc055292ef575264465aae2edf2654) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`1368157`](https://github.com/stdlib-js/stdlib/commit/1368157631241acfb9269903703107acb1ae80f8) - **feat:** add C implementation for `stats/base/ndarray/dstdev` [(#14636)](https://github.com/stdlib-js/stdlib/pull/14636) _(by Ujjwal Verma, Athan Reines)_
 -   [`056a080`](https://github.com/stdlib-js/stdlib/commit/056a080213e54c3030bb98128e96b26b4139627a) - **refactor:** remove unused generics [(#12495)](https://github.com/stdlib-js/stdlib/pull/12495) _(by Philipp Burckhardt)_
 -   [`a403638`](https://github.com/stdlib-js/stdlib/commit/a403638f69923986e5da20a2ad8e4f9653b8eef6) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
