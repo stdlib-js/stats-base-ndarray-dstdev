@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-27)
+## Unreleased (2026-09-24)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e67a5aa`](https://github.com/stdlib-js/stdlib/commit/e67a5aad659d8f6623e4ab8ac94687a8586ea83a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`c8a0043`](https://github.com/stdlib-js/stdlib/commit/c8a00437d3c5c7e516023a0297b65517260fc25c) - **docs:** fix description _(by Athan Reines)_
 -   [`f985dcf`](https://github.com/stdlib-js/stdlib/commit/f985dcfb842318ddb6343c5737fe909edb2c2e9f) - **docs:** use correct specifier _(by Athan Reines)_
 -   [`10787df`](https://github.com/stdlib-js/stdlib/commit/10787dfc5f33b7757d3f4c2aaefcb2ebd1bef487) - **docs:** update Markdown equation elements _(by stdlib-bot)_
